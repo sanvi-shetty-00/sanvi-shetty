@@ -22,5 +22,5 @@ AI & Data Science student exploring Artificial Intelligence, Machine Learning, a
 Building AI projects that solve real-world problems and help me grow as an engineer.
 
 ## 📫 Connect with me
-- LinkedIn: https://linkedin.com/in/your-profile
+- LinkedIn: https://www.linkedin.com/in/sanvi-shetty
 - Email: shettysanvi009@gmail.com
