@@ -23,4 +23,4 @@ Building AI projects that solve real-world problems and help me grow as an engin
 
 ## 📫 Connect with me
 - LinkedIn: https://linkedin.com/in/your-profile
-- Email: your.email@example.com
+- Email: shettysanvi009@gmail.com
