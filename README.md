@@ -1,5 +1,3 @@
-# sanvi-shetty
-
 # Hi, I'm Sanvi Shetty 👋
 
 AI & Data Science student exploring Artificial Intelligence, Machine Learning, and Generative AI.
